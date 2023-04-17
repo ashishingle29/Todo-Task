@@ -1,0 +1,29 @@
+.homepage-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.addedName{
+  margin:10px;
+}
+.welcome-message {
+  
+  font-size: 3rem;
+  margin-bottom: 2rem;
+}
+
+.clear-button {
+  padding: 1rem 2rem;
+  background-color: #f44336;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease-in-out;
+}
+
+.clear-button:hover {
+  background-color: #c62828;
+}
