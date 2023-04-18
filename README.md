@@ -3,6 +3,11 @@
 
 This is a practical task given by the company to create a simple React application with three pages: Home Page, Contact Page, and Task Page.
 
+![TodoList Home](https://user-images.githubusercontent.com/92534028/232636536-a7bd0956-e840-454c-9171-22362a220b06.png)
+ ![todo Contact Form](https://user-images.githubusercontent.com/92534028/232636552-13e6dc4b-02e7-4a60-987f-9daf77604368.png)
+![home page](https://user-images.githubusercontent.com/92534028/232636687-9e26b03d-4c09-44a8-9ffe-0751e28bda2f.png)
+
+
 ## Pages
 
 ### Home Page
